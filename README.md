@@ -1,6 +1,6 @@
 # DemoDataBot
 
-## What DemoDatabot Does
+DemoDataBot will create a synthetic data set optimized for EDA, visualization, and web app development. For more information about the data, please view the `CLAUDE.md` and `.claude/PLAN.md` files.
 
 ## Prerequisites
 
