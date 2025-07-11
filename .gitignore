@@ -1,0 +1,5 @@
+.DS_Store
+*/*.csv
+*/*.R
+*/*.py
+.claude/settings.local.json
