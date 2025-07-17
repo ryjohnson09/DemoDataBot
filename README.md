@@ -30,3 +30,42 @@ Demobot uses [Claude Code](https://www.anthropic.com/claude-code) to generate pr
 4.  Answer the setup questions. If there are certain prompts that you don't know the answer to, you can call them out as "unknown" or "unsure" and Demobot will research them for you.
 
 5.  Occasionally, Demobot may ask for confirmation or additional details. Respond as needed.
+
+## Available Datasets
+
+The following synthetic datasets have been generated for demonstration purposes:
+
+### Healthcare & Life Sciences
+- **`healthguard_analytics/`** - Health insurance member risk analysis
+  - `member_risk_data.csv` - Member demographics, risk categories, and predicted costs
+  - Columns: member_id, age_group, risk_category, annual_visits, predicted_cost
+
+- **`healthwatch_analytics/`** - Public health surveillance data
+  - `surveillance_data.csv` - Disease surveillance across regions and time periods
+  - Columns: region, disease_type, week_number, case_count, population_at_risk
+
+- **`MediCore-Therapeutics/`** - Clinical trial performance data
+  - `clinical_trials.csv` - Drug trial efficacy and patient enrollment data
+  - Columns: Trial_ID, Drug_Compound, Patient_Count, Efficacy_Score, Trial_Phase
+
+### Financial Services
+- **`metrobank_analytics/`** - Banking portfolio risk analysis
+  - `portfolio_risk_data.csv` - Loan portfolio performance by type and risk grade
+  - Columns: loan_type, risk_grade, quarter, default_rate, portfolio_value
+
+### Retail & E-commerce
+- **`retailmax_analytics/`** - Store performance optimization and inventory management
+  - `store_performance.csv` - Store performance metrics across regions and quarters
+  - Columns: store_id, region, monthly_sales, inventory_turnover, customer_traffic
+
+### Sports & Entertainment
+- **`Diamond Analytics Corp/`** - Baseball player performance analytics
+  - `player_analytics.csv` - Player performance metrics and statistics
+  - Columns: player_id, position, batting_avg, home_runs, salary
+
+### Environmental & Climate
+- **`pacific_climate_observatory/`** - Weather monitoring data
+  - `weather_data.csv` - Multi-station weather measurements over time
+  - Columns: date, station, temperature_f, precipitation_inches, pressure_inhg
+
+All datasets are designed to be small (300-500 rows, max 5 columns) and contain clear trends suitable for exploratory data analysis, visualization, and interactive application development.

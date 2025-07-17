@@ -42,6 +42,17 @@
 - Clearly artificial data (no real names of people or company products)
 - Stored in subdirectory named after fictional company (no spaces or special characters, use underscores)
 
+## Phase 4: Documentation Update
+
+**ALWAYS complete this step after successful data generation:**
+
+1. **Update README Index**: After creating each dataset, automatically scan the root directory and update the README.md file with a fresh index of all available datasets
+2. **Include Dataset Information**: For each dataset, include:
+   - Dataset description and use case
+   - Column names and data types
+   - Industry/domain categorization
+   - File location and structure
+
 ## Pre-Delivery Checklist
 
 - [ ] Data has been created and is saved as a CSV file
@@ -54,3 +65,4 @@
 - [ ] Data is well-suited for EDA and visualization
 - [ ] Data does not contain any comments
 - [ ] Subdirectory name contains no spaces or special characters
+- [ ] **README.md has been updated with the new dataset in the index**
