@@ -1,0 +1,451 @@
+loan_type,risk_grade,quarter,default_rate,portfolio_value
+Auto Loans,A,1,0.47,425.9
+Auto Loans,A,2,0.47,413.7
+Auto Loans,A,3,0.47,401.6
+Auto Loans,A,4,0.47,430
+Auto Loans,A,4,0.47,430
+Auto Loans,A,9,1.38,490.8
+Auto Loans,A,9,1.38,490.8
+Auto Loans,A,10,1.38,478.6
+Auto Loans,A,11,1.38,466.5
+Auto Loans,A,13,0.78,523.3
+Auto Loans,A,14,0.78,511.1
+Auto Loans,A,14,0.78,511.1
+Auto Loans,A,15,0.78,498.9
+Auto Loans,A,16,0.47,527.3
+Auto Loans,A,18,0.47,543.5
+Auto Loans,AA,7,0.25,434
+Auto Loans,AA,7,0.25,434
+Auto Loans,AA,8,0.72,462.4
+Auto Loans,AA,9,0.72,490.8
+Auto Loans,AA,10,0.72,478.6
+Auto Loans,AA,11,0.72,466.5
+Auto Loans,AA,11,0.72,466.5
+Auto Loans,AA,12,0.72,494.9
+Auto Loans,AA,17,0.25,555.7
+Auto Loans,AA,17,0.25,555.7
+Auto Loans,AA,18,0.25,543.5
+Auto Loans,AAA,6,0.07,446.2
+Auto Loans,AAA,7,0.07,434
+Auto Loans,AAA,9,0.21,490.8
+Auto Loans,AAA,10,0.21,478.6
+Auto Loans,AAA,12,0.21,494.9
+Auto Loans,AAA,13,0.12,523.3
+Auto Loans,AAA,15,0.12,498.9
+Auto Loans,AAA,15,0.12,498.9
+Auto Loans,AAA,16,0.07,527.3
+Auto Loans,AAA,18,0.07,543.5
+Auto Loans,B,1,3.8,141.9
+Auto Loans,B,2,3.8,137.8
+Auto Loans,B,4,3.8,143.3
+Auto Loans,B,5,3.8,152.7
+Auto Loans,B,6,3.8,148.7
+Auto Loans,B,7,3.8,144.6
+Auto Loans,B,7,3.8,144.6
+Auto Loans,B,8,11.17,154.1
+Auto Loans,B,10,11.17,159.5
+Auto Loans,B,10,11.17,159.5
+Auto Loans,B,11,11.17,155.4
+Auto Loans,B,12,11.17,164.9
+Auto Loans,B,13,6.27,174.3
+Auto Loans,B,15,6.27,166.2
+Auto Loans,B,16,3.8,175.7
+Auto Loans,B,17,3.8,185.1
+Auto Loans,B,18,3.8,181.1
+Auto Loans,BB,2,1.66,340.5
+Auto Loans,BB,6,1.66,367.2
+Auto Loans,BB,7,1.66,357.2
+Auto Loans,BB,9,4.88,404
+Auto Loans,BB,10,4.88,394
+Auto Loans,BB,10,4.88,394
+Auto Loans,BB,13,2.74,430.7
+Auto Loans,BB,14,2.74,420.7
+Auto Loans,BB,18,1.66,447.4
+Auto Loans,BBB,3,0.83,330.5
+Auto Loans,BBB,4,0.83,353.9
+Auto Loans,BBB,5,0.83,377.3
+Auto Loans,BBB,6,0.83,367.2
+Auto Loans,BBB,7,0.83,357.2
+Auto Loans,BBB,9,2.45,404
+Auto Loans,BBB,9,2.45,404
+Auto Loans,BBB,11,2.45,383.9
+Auto Loans,BBB,13,1.38,430.7
+Auto Loans,BBB,17,0.83,457.4
+Auto Loans,CCC,1,5.61,141.9
+Auto Loans,CCC,2,5.61,137.8
+Auto Loans,CCC,4,5.61,143.3
+Auto Loans,CCC,5,5.61,152.7
+Auto Loans,CCC,8,16.49,154.1
+Auto Loans,CCC,12,16.49,164.9
+Auto Loans,CCC,13,9.26,174.3
+Auto Loans,CCC,14,9.26,170.3
+Auto Loans,CCC,15,9.26,166.2
+Auto Loans,CCC,17,5.61,185.1
+Auto Loans,CCC,18,5.61,181.1
+Business Loans,A,1,0.44,633.4
+Business Loans,A,2,0.44,615.3
+Business Loans,A,5,0.44,681.7
+Business Loans,A,6,0.44,663.6
+Business Loans,A,7,0.44,645.5
+Business Loans,A,8,1.3,687.7
+Business Loans,A,9,1.3,730
+Business Loans,A,10,1.3,711.9
+Business Loans,A,12,1.3,736
+Business Loans,A,13,0.73,778.2
+Business Loans,A,13,0.73,778.2
+Business Loans,A,14,0.73,760.1
+Business Loans,A,18,0.44,808.4
+Business Loans,AA,1,0.23,633.4
+Business Loans,AA,1,0.23,633.4
+Business Loans,AA,4,0.23,639.5
+Business Loans,AA,5,0.23,681.7
+Business Loans,AA,6,0.23,663.6
+Business Loans,AA,6,0.23,663.6
+Business Loans,AA,7,0.23,645.5
+Business Loans,AA,8,0.68,687.7
+Business Loans,AA,9,0.68,730
+Business Loans,AA,10,0.68,711.9
+Business Loans,AA,11,0.68,693.8
+Business Loans,AA,12,0.68,736
+Business Loans,AA,13,0.38,778.2
+Business Loans,AA,14,0.38,760.1
+Business Loans,AA,15,0.38,742
+Business Loans,AA,16,0.23,784.3
+Business Loans,AA,17,0.23,826.5
+Business Loans,AAA,4,0.07,639.5
+Business Loans,AAA,5,0.07,681.7
+Business Loans,AAA,6,0.07,663.6
+Business Loans,AAA,7,0.07,645.5
+Business Loans,AAA,9,0.19,730
+Business Loans,AAA,10,0.19,711.9
+Business Loans,AAA,12,0.19,736
+Business Loans,AAA,13,0.11,778.2
+Business Loans,AAA,14,0.11,760.1
+Business Loans,AAA,15,0.11,742
+Business Loans,AAA,15,0.11,742
+Business Loans,AAA,17,0.07,826.5
+Business Loans,AAA,18,0.07,808.4
+Business Loans,AAA,18,0.07,808.4
+Business Loans,B,3,3.57,114.3
+Business Loans,B,4,3.57,122.4
+Business Loans,B,6,3.57,127
+Business Loans,B,6,3.57,127
+Business Loans,B,7,3.57,123.5
+Business Loans,B,9,10.48,139.7
+Business Loans,B,11,10.48,132.8
+Business Loans,B,11,10.48,132.8
+Business Loans,B,12,10.48,140.8
+Business Loans,B,15,5.89,142
+Business Loans,B,16,3.57,150.1
+Business Loans,B,17,3.57,158.2
+Business Loans,BB,1,1.56,382.8
+Business Loans,BB,6,1.56,401
+Business Loans,BB,7,1.56,390
+Business Loans,BB,7,1.56,390
+Business Loans,BB,8,4.58,415.6
+Business Loans,BB,9,4.58,441.1
+Business Loans,BB,10,4.58,430.1
+Business Loans,BB,11,4.58,419.2
+Business Loans,BB,12,4.58,444.7
+Business Loans,BB,13,2.57,470.2
+Business Loans,BB,14,2.57,459.3
+Business Loans,BB,15,2.57,448.4
+Business Loans,BB,16,1.56,473.9
+Business Loans,BB,17,1.56,499.4
+Business Loans,BBB,2,0.78,371.8
+Business Loans,BBB,3,0.78,360.9
+Business Loans,BBB,6,0.78,401
+Business Loans,BBB,6,0.78,401
+Business Loans,BBB,8,2.3,415.6
+Business Loans,BBB,15,1.29,448.4
+Business Loans,BBB,16,0.78,473.9
+Business Loans,BBB,17,0.78,499.4
+Business Loans,BBB,17,0.78,499.4
+Business Loans,CCC,2,5.27,117.7
+Business Loans,CCC,2,5.27,117.7
+Business Loans,CCC,3,5.27,114.3
+Business Loans,CCC,4,5.27,122.4
+Business Loans,CCC,5,5.27,130.4
+Business Loans,CCC,6,5.27,127
+Business Loans,CCC,8,15.47,131.6
+Business Loans,CCC,9,15.47,139.7
+Business Loans,CCC,16,5.27,150.1
+Business Loans,CCC,17,5.27,158.2
+Business Loans,CCC,18,5.27,154.7
+Credit Cards,A,1,0.69,395.4
+Credit Cards,A,2,0.69,384.1
+Credit Cards,A,3,0.69,372.8
+Credit Cards,A,4,0.69,399.2
+Credit Cards,A,5,0.69,425.6
+Credit Cards,A,5,0.69,425.6
+Credit Cards,A,8,2.04,429.3
+Credit Cards,A,10,2.04,444.4
+Credit Cards,A,12,2.04,459.5
+Credit Cards,A,13,1.14,485.8
+Credit Cards,A,13,1.14,485.8
+Credit Cards,A,15,1.14,463.2
+Credit Cards,A,16,0.69,489.6
+Credit Cards,A,18,0.69,504.6
+Credit Cards,AA,3,0.36,372.8
+Credit Cards,AA,4,0.36,399.2
+Credit Cards,AA,8,1.07,429.3
+Credit Cards,AA,8,1.07,429.3
+Credit Cards,AA,9,1.07,455.7
+Credit Cards,AA,11,1.07,433.1
+Credit Cards,AA,12,1.07,459.5
+Credit Cards,AA,14,0.6,474.5
+Credit Cards,AA,14,0.6,474.5
+Credit Cards,AA,15,0.6,463.2
+Credit Cards,AA,16,0.36,489.6
+Credit Cards,AAA,2,0.1,384.1
+Credit Cards,AAA,3,0.1,372.8
+Credit Cards,AAA,4,0.1,399.2
+Credit Cards,AAA,6,0.1,414.3
+Credit Cards,AAA,8,0.3,429.3
+Credit Cards,AAA,11,0.3,433.1
+Credit Cards,AAA,12,0.3,459.5
+Credit Cards,AAA,13,0.17,485.8
+Credit Cards,AAA,15,0.17,463.2
+Credit Cards,AAA,15,0.17,463.2
+Credit Cards,AAA,16,0.1,489.6
+Credit Cards,B,1,5.59,55.8
+Credit Cards,B,2,5.59,54.3
+Credit Cards,B,3,5.59,52.7
+Credit Cards,B,3,5.59,52.7
+Credit Cards,B,6,5.59,58.5
+Credit Cards,B,8,16.43,60.6
+Credit Cards,B,9,16.43,64.4
+Credit Cards,B,10,16.43,62.8
+Credit Cards,B,11,16.43,61.2
+Credit Cards,B,14,9.23,67
+Credit Cards,B,14,9.23,67
+Credit Cards,B,16,5.59,69.1
+Credit Cards,B,18,5.59,71.3
+Credit Cards,B,18,5.59,71.3
+Credit Cards,BB,1,2.44,256.2
+Credit Cards,BB,2,2.44,248.9
+Credit Cards,BB,3,2.44,241.6
+Credit Cards,BB,4,2.44,258.7
+Credit Cards,BB,5,2.44,275.8
+Credit Cards,BB,6,2.44,268.5
+Credit Cards,BB,7,2.44,261.1
+Credit Cards,BB,7,2.44,261.1
+Credit Cards,BB,9,7.18,295.3
+Credit Cards,BB,11,7.18,280.7
+Credit Cards,BB,12,7.18,297.7
+Credit Cards,BB,13,4.03,314.8
+Credit Cards,BB,18,2.44,327
+Credit Cards,BBB,4,1.23,258.7
+Credit Cards,BBB,5,1.23,275.8
+Credit Cards,BBB,5,1.23,275.8
+Credit Cards,BBB,6,1.23,268.5
+Credit Cards,BBB,8,3.61,278.2
+Credit Cards,BBB,8,3.61,278.2
+Credit Cards,BBB,9,3.61,295.3
+Credit Cards,BBB,10,3.61,288
+Credit Cards,BBB,11,3.61,280.7
+Credit Cards,BBB,13,2.03,314.8
+Credit Cards,BBB,15,2.03,300.2
+Credit Cards,BBB,15,2.03,300.2
+Credit Cards,BBB,17,1.23,334.3
+Credit Cards,CCC,1,8.26,55.8
+Credit Cards,CCC,3,8.26,52.7
+Credit Cards,CCC,4,8.26,56.4
+Credit Cards,CCC,5,8.26,60.1
+Credit Cards,CCC,6,8.26,58.5
+Credit Cards,CCC,7,8.26,56.9
+Credit Cards,CCC,9,24.26,64.4
+Credit Cards,CCC,10,24.26,62.8
+Credit Cards,CCC,10,24.26,62.8
+Credit Cards,CCC,12,24.26,64.9
+Credit Cards,CCC,12,24.26,64.9
+Credit Cards,CCC,14,13.62,67
+Credit Cards,CCC,16,8.26,69.1
+Credit Cards,CCC,17,8.26,72.9
+Credit Cards,CCC,18,8.26,71.3
+Credit Cards,CCC,18,8.26,71.3
+Mortgages,A,1,0.4,960.8
+Mortgages,A,2,0.4,933.3
+Mortgages,A,2,0.4,933.3
+Mortgages,A,3,0.4,905.9
+Mortgages,A,4,0.4,969.9
+Mortgages,A,6,0.4,1006.5
+Mortgages,A,10,1.18,1079.7
+Mortgages,A,11,1.18,1052.3
+Mortgages,A,12,1.18,1116.3
+Mortgages,A,13,0.66,1180.4
+Mortgages,A,14,0.66,1152.9
+Mortgages,A,16,0.4,1189.5
+Mortgages,A,18,0.4,1226.1
+Mortgages,AA,1,0.21,960.8
+Mortgages,AA,1,0.21,960.8
+Mortgages,AA,2,0.21,933.3
+Mortgages,AA,3,0.21,905.9
+Mortgages,AA,5,0.21,1034
+Mortgages,AA,6,0.21,1006.5
+Mortgages,AA,8,0.62,1043.1
+Mortgages,AA,11,0.62,1052.3
+Mortgages,AA,12,0.62,1116.3
+Mortgages,AA,12,0.62,1116.3
+Mortgages,AA,13,0.35,1180.4
+Mortgages,AA,14,0.35,1152.9
+Mortgages,AA,15,0.35,1125.5
+Mortgages,AA,18,0.21,1226.1
+Mortgages,AAA,3,0.06,905.9
+Mortgages,AAA,6,0.06,1006.5
+Mortgages,AAA,8,0.18,1043.1
+Mortgages,AAA,8,0.18,1043.1
+Mortgages,AAA,10,0.18,1079.7
+Mortgages,AAA,11,0.18,1052.3
+Mortgages,AAA,12,0.18,1116.3
+Mortgages,AAA,14,0.1,1152.9
+Mortgages,AAA,16,0.06,1189.5
+Mortgages,B,3,3.24,209.2
+Mortgages,B,4,3.24,224
+Mortgages,B,6,3.24,232.5
+Mortgages,B,8,9.51,240.9
+Mortgages,B,10,9.51,249.4
+Mortgages,B,13,5.34,272.6
+Mortgages,B,14,5.34,266.3
+Mortgages,B,14,5.34,266.3
+Mortgages,B,15,5.34,260
+Mortgages,B,15,5.34,260
+Mortgages,B,16,3.24,274.8
+Mortgages,B,17,3.24,289.5
+Mortgages,B,18,3.24,283.2
+Mortgages,BB,1,1.41,585.5
+Mortgages,BB,2,1.41,568.8
+Mortgages,BB,4,1.41,591.1
+Mortgages,BB,7,1.41,596.7
+Mortgages,BB,8,4.16,635.7
+Mortgages,BB,9,4.16,674.8
+Mortgages,BB,11,4.16,641.3
+Mortgages,BB,11,4.16,641.3
+Mortgages,BB,12,4.16,680.3
+Mortgages,BB,15,2.33,685.9
+Mortgages,BB,16,1.41,725
+Mortgages,BB,17,1.41,764
+Mortgages,BBB,1,0.71,585.5
+Mortgages,BBB,3,0.71,552.1
+Mortgages,BBB,5,0.71,630.2
+Mortgages,BBB,6,0.71,613.4
+Mortgages,BBB,7,0.71,596.7
+Mortgages,BBB,10,2.09,658
+Mortgages,BBB,12,2.09,680.3
+Mortgages,BBB,13,1.17,719.4
+Mortgages,BBB,14,1.17,702.7
+Mortgages,BBB,15,1.17,685.9
+Mortgages,BBB,18,0.71,747.3
+Mortgages,CCC,2,4.78,215.6
+Mortgages,CCC,3,4.78,209.2
+Mortgages,CCC,4,4.78,224
+Mortgages,CCC,5,4.78,238.8
+Mortgages,CCC,5,4.78,238.8
+Mortgages,CCC,6,4.78,232.5
+Mortgages,CCC,7,4.78,226.1
+Mortgages,CCC,7,4.78,226.1
+Mortgages,CCC,9,14.04,255.7
+Mortgages,CCC,10,14.04,249.4
+Mortgages,CCC,11,14.04,243
+Mortgages,CCC,12,14.04,257.8
+Mortgages,CCC,14,7.88,266.3
+Mortgages,CCC,17,4.78,289.5
+Personal Loans,A,1,0.57,152.9
+Personal Loans,A,2,0.57,148.6
+Personal Loans,A,3,0.57,144.2
+Personal Loans,A,4,0.57,154.4
+Personal Loans,A,6,0.57,160.2
+Personal Loans,A,6,0.57,160.2
+Personal Loans,A,7,0.57,155.9
+Personal Loans,A,8,1.66,166.1
+Personal Loans,A,8,1.66,166.1
+Personal Loans,A,9,1.66,176.3
+Personal Loans,A,10,1.66,171.9
+Personal Loans,A,11,1.66,167.5
+Personal Loans,A,12,1.66,177.7
+Personal Loans,A,14,0.93,183.5
+Personal Loans,A,15,0.93,179.2
+Personal Loans,A,16,0.57,189.4
+Personal Loans,A,16,0.57,189.4
+Personal Loans,A,17,0.57,199.6
+Personal Loans,AA,1,0.3,152.9
+Personal Loans,AA,2,0.3,148.6
+Personal Loans,AA,3,0.3,144.2
+Personal Loans,AA,4,0.3,154.4
+Personal Loans,AA,5,0.3,164.6
+Personal Loans,AA,6,0.3,160.2
+Personal Loans,AA,7,0.3,155.9
+Personal Loans,AA,8,0.87,166.1
+Personal Loans,AA,11,0.87,167.5
+Personal Loans,AA,11,0.87,167.5
+Personal Loans,AA,12,0.87,177.7
+Personal Loans,AA,13,0.49,187.9
+Personal Loans,AA,16,0.3,189.4
+Personal Loans,AA,17,0.3,199.6
+Personal Loans,AA,18,0.3,195.2
+Personal Loans,AAA,1,0.08,152.9
+Personal Loans,AAA,3,0.08,144.2
+Personal Loans,AAA,4,0.08,154.4
+Personal Loans,AAA,5,0.08,164.6
+Personal Loans,AAA,6,0.08,160.2
+Personal Loans,AAA,6,0.08,160.2
+Personal Loans,AAA,7,0.08,155.9
+Personal Loans,AAA,8,0.25,166.1
+Personal Loans,AAA,11,0.25,167.5
+Personal Loans,AAA,12,0.25,177.7
+Personal Loans,AAA,13,0.14,187.9
+Personal Loans,AAA,14,0.14,183.5
+Personal Loans,AAA,14,0.14,183.5
+Personal Loans,AAA,17,0.08,199.6
+Personal Loans,AAA,18,0.08,195.2
+Personal Loans,B,2,4.56,53.7
+Personal Loans,B,2,4.56,53.7
+Personal Loans,B,5,4.56,59.5
+Personal Loans,B,6,4.56,57.9
+Personal Loans,B,7,4.56,56.4
+Personal Loans,B,7,4.56,56.4
+Personal Loans,B,9,13.4,63.7
+Personal Loans,B,10,13.4,62.1
+Personal Loans,B,11,13.4,60.6
+Personal Loans,B,12,13.4,64.3
+Personal Loans,B,13,7.52,67.9
+Personal Loans,B,15,7.52,64.8
+Personal Loans,B,16,4.56,68.5
+Personal Loans,BB,3,1.99,145.5
+Personal Loans,BB,5,1.99,166.1
+Personal Loans,BB,7,1.99,157.3
+Personal Loans,BB,8,5.86,167.6
+Personal Loans,BB,9,5.86,177.8
+Personal Loans,BB,11,5.86,169
+Personal Loans,BB,12,5.86,179.3
+Personal Loans,BB,13,3.29,189.6
+Personal Loans,BB,13,3.29,189.6
+Personal Loans,BB,14,3.29,185.2
+Personal Loans,BB,15,3.29,180.8
+Personal Loans,BB,16,1.99,191.1
+Personal Loans,BB,16,1.99,191.1
+Personal Loans,BB,17,1.99,201.4
+Personal Loans,BB,18,1.99,197
+Personal Loans,BBB,2,1,149.9
+Personal Loans,BBB,4,1,155.8
+Personal Loans,BBB,5,1,166.1
+Personal Loans,BBB,6,1,161.7
+Personal Loans,BBB,7,1,157.3
+Personal Loans,BBB,7,1,157.3
+Personal Loans,BBB,9,2.94,177.8
+Personal Loans,BBB,11,2.94,169
+Personal Loans,BBB,13,1.65,189.6
+Personal Loans,BBB,14,1.65,185.2
+Personal Loans,BBB,15,1.65,180.8
+Personal Loans,BBB,15,1.65,180.8
+Personal Loans,BBB,18,1,197
+Personal Loans,CCC,1,6.73,55.3
+Personal Loans,CCC,3,6.73,52.1
+Personal Loans,CCC,5,6.73,59.5
+Personal Loans,CCC,7,6.73,56.4
+Personal Loans,CCC,8,19.78,60
+Personal Loans,CCC,12,19.78,64.3
+Personal Loans,CCC,14,11.11,66.4
+Personal Loans,CCC,14,11.11,66.4
+Personal Loans,CCC,15,11.11,64.8
+Personal Loans,CCC,18,6.73,70.6

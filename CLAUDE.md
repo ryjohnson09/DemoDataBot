@@ -22,8 +22,9 @@ See @.claude/PLAN.md for detailed process steps and requirements.
 - Clearly artificial data (no real names/products)
 
 ### Updated README Index
-- After each dataset creation, automatically update the README.md file with a fresh index of all available datasets
+- After each dataset creation, automatically scan the root directory and update the README.md file with a fresh index of all available datasets
 - Include dataset descriptions and column information for easy reference
+- Remove any datasets from the README index that no longer exist in the directory (cleanup deleted datasets)
 
 ## Success Criteria
 

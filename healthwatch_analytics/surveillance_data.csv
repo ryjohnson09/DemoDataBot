@@ -1,0 +1,401 @@
+region,disease_type,week_number,case_count,population_at_risk
+East Midlands,RSV,1,152,416721
+East Midlands,RSV,2,154,416721
+East Midlands,RSV,3,186,416721
+East Midlands,RSV,4,170,416721
+East Midlands,RSV,5,148,416721
+East Midlands,RSV,6,163,416721
+East Midlands,RSV,7,173,416721
+East Midlands,RSV,8,160,416721
+East Midlands,RSV,9,174,416721
+East Midlands,RSV,10,165,416721
+East Midlands,RSV,11,46,416721
+East Midlands,RSV,12,37,416721
+East Midlands,Whooping Cough,13,65,416721
+East Midlands,Whooping Cough,14,74,416721
+East Midlands,Whooping Cough,15,79,416721
+East Midlands,Whooping Cough,16,82,416721
+East Midlands,Whooping Cough,17,63,416721
+East Midlands,Whooping Cough,18,67,416721
+East Midlands,Whooping Cough,19,61,416721
+East Midlands,Whooping Cough,20,78,416721
+East Midlands,Influenza,21,90,416721
+East Midlands,Influenza,22,96,416721
+East Midlands,Influenza,23,109,416721
+East Midlands,Influenza,24,100,416721
+East Midlands,Influenza,25,113,416721
+East Midlands,Influenza,26,76,416721
+East Midlands,Influenza,27,89,416721
+East Midlands,Influenza,28,86,416721
+East Midlands,Influenza,29,103,416721
+East Midlands,Influenza,30,93,416721
+East Midlands,Influenza,31,109,416721
+East Midlands,Influenza,32,111,416721
+East Midlands,Influenza,33,95,416721
+East Midlands,Influenza,34,90,416721
+East Midlands,Influenza,35,82,416721
+East Midlands,Influenza,36,102,416721
+East Midlands,Influenza,37,105,416721
+East Midlands,Influenza,38,80,416721
+East Midlands,Influenza,39,97,416721
+East Midlands,RSV,40,41,416721
+East Midlands,RSV,41,62,416721
+East Midlands,RSV,42,156,416721
+East Midlands,RSV,43,173,416721
+East Midlands,RSV,44,183,416721
+East Midlands,RSV,46,168,416721
+East Midlands,RSV,47,171,416721
+East Midlands,RSV,48,186,416721
+East Midlands,RSV,49,156,416721
+East Midlands,RSV,50,164,416721
+East Midlands,RSV,51,173,416721
+East Midlands,RSV,52,166,416721
+London,RSV,1,381,949555
+London,RSV,2,380,949555
+London,RSV,3,372,949555
+London,RSV,4,372,949555
+London,RSV,5,359,949555
+London,RSV,6,388,949555
+London,RSV,7,377,949555
+London,RSV,8,395,949555
+London,RSV,9,359,949555
+London,RSV,10,366,949555
+London,RSV,11,96,949555
+London,RSV,12,82,949555
+London,Whooping Cough,13,139,949555
+London,Whooping Cough,14,149,949555
+London,Whooping Cough,15,144,949555
+London,Whooping Cough,16,149,949555
+London,Whooping Cough,17,150,949555
+London,Whooping Cough,18,155,949555
+London,Whooping Cough,19,154,949555
+London,Influenza,21,219,949555
+London,Influenza,22,224,949555
+London,Influenza,23,231,949555
+London,Influenza,24,204,949555
+London,Influenza,25,221,949555
+London,Influenza,26,239,949555
+London,Influenza,27,216,949555
+London,Influenza,28,219,949555
+London,Influenza,29,231,949555
+London,Influenza,30,209,949555
+London,Influenza,31,238,949555
+London,Influenza,32,212,949555
+London,Influenza,33,200,949555
+London,Influenza,34,236,949555
+London,Influenza,35,233,949555
+London,Influenza,36,226,949555
+London,Influenza,37,214,949555
+London,Influenza,38,214,949555
+London,Influenza,39,206,949555
+London,RSV,40,113,949555
+London,RSV,41,113,949555
+London,RSV,42,364,949555
+London,RSV,43,387,949555
+London,RSV,44,393,949555
+London,RSV,45,379,949555
+London,RSV,46,397,949555
+London,RSV,47,366,949555
+London,RSV,48,367,949555
+London,RSV,49,383,949555
+London,RSV,50,379,949555
+London,RSV,51,389,949555
+London,RSV,52,378,949555
+North East,RSV,1,137,313699
+North East,RSV,2,128,313699
+North East,RSV,3,134,313699
+North East,RSV,4,119,313699
+North East,RSV,5,126,313699
+North East,RSV,6,112,313699
+North East,RSV,7,140,313699
+North East,RSV,8,108,313699
+North East,RSV,9,126,313699
+North East,RSV,10,122,313699
+North East,RSV,11,39,313699
+North East,Whooping Cough,13,30,313699
+North East,Whooping Cough,14,60,313699
+North East,Whooping Cough,15,61,313699
+North East,Whooping Cough,16,50,313699
+North East,Whooping Cough,17,49,313699
+North East,Whooping Cough,18,52,313699
+North East,Whooping Cough,19,32,313699
+North East,Whooping Cough,20,32,313699
+North East,Influenza,21,54,313699
+North East,Influenza,22,55,313699
+North East,Influenza,23,73,313699
+North East,Influenza,24,54,313699
+North East,Influenza,25,90,313699
+North East,Influenza,26,62,313699
+North East,Influenza,27,92,313699
+North East,Influenza,28,57,313699
+North East,Influenza,29,85,313699
+North East,Influenza,30,91,313699
+North East,Influenza,31,88,313699
+North East,Influenza,32,61,313699
+North East,Influenza,33,81,313699
+North East,Influenza,34,64,313699
+North East,Influenza,35,72,313699
+North East,Influenza,36,61,313699
+North East,Influenza,37,87,313699
+North East,Influenza,38,81,313699
+North East,RSV,40,48,313699
+North East,RSV,41,39,313699
+North East,RSV,42,109,313699
+North East,RSV,43,132,313699
+North East,RSV,45,122,313699
+North East,RSV,46,128,313699
+North East,RSV,47,122,313699
+North East,RSV,48,109,313699
+North East,RSV,49,144,313699
+North East,RSV,50,144,313699
+North East,RSV,51,125,313699
+North East,RSV,52,140,313699
+North West,RSV,1,304,726207
+North West,RSV,2,307,726207
+North West,RSV,4,295,726207
+North West,RSV,6,287,726207
+North West,RSV,7,300,726207
+North West,RSV,8,284,726207
+North West,RSV,9,297,726207
+North West,RSV,10,285,726207
+North West,RSV,11,61,726207
+North West,RSV,12,73,726207
+North West,Whooping Cough,13,95,726207
+North West,Whooping Cough,14,116,726207
+North West,Whooping Cough,15,125,726207
+North West,Whooping Cough,16,88,726207
+North West,Whooping Cough,17,100,726207
+North West,Whooping Cough,18,101,726207
+North West,Whooping Cough,19,92,726207
+North West,Whooping Cough,20,96,726207
+North West,Influenza,21,163,726207
+North West,Influenza,22,173,726207
+North West,Influenza,24,176,726207
+North West,Influenza,25,172,726207
+North West,Influenza,26,179,726207
+North West,Influenza,27,164,726207
+North West,Influenza,28,161,726207
+North West,Influenza,29,153,726207
+North West,Influenza,30,184,726207
+North West,Influenza,31,163,726207
+North West,Influenza,32,178,726207
+North West,Influenza,33,181,726207
+North West,Influenza,34,177,726207
+North West,Influenza,35,179,726207
+North West,Influenza,36,153,726207
+North West,Influenza,37,169,726207
+North West,Influenza,38,185,726207
+North West,Influenza,39,178,726207
+North West,RSV,40,58,726207
+North West,RSV,41,72,726207
+North West,RSV,42,283,726207
+North West,RSV,43,302,726207
+North West,RSV,44,291,726207
+North West,RSV,45,280,726207
+North West,RSV,46,294,726207
+North West,RSV,47,309,726207
+North West,RSV,48,269,726207
+North West,RSV,49,270,726207
+North West,RSV,50,292,726207
+North West,RSV,51,302,726207
+North West,RSV,52,293,726207
+South East,RSV,1,253,667127
+South East,RSV,2,254,667127
+South East,RSV,3,251,667127
+South East,RSV,4,272,667127
+South East,RSV,5,262,667127
+South East,RSV,6,269,667127
+South East,RSV,8,253,667127
+South East,RSV,10,259,667127
+South East,RSV,11,49,667127
+South East,RSV,12,68,667127
+South East,Whooping Cough,13,98,667127
+South East,Whooping Cough,14,112,667127
+South East,Whooping Cough,15,101,667127
+South East,Whooping Cough,16,95,667127
+South East,Whooping Cough,17,96,667127
+South East,Whooping Cough,18,97,667127
+South East,Whooping Cough,19,95,667127
+South East,Whooping Cough,20,108,667127
+South East,Influenza,21,143,667127
+South East,Influenza,22,170,667127
+South East,Influenza,23,143,667127
+South East,Influenza,24,167,667127
+South East,Influenza,25,137,667127
+South East,Influenza,26,158,667127
+South East,Influenza,27,159,667127
+South East,Influenza,28,172,667127
+South East,Influenza,29,166,667127
+South East,Influenza,30,155,667127
+South East,Influenza,31,152,667127
+South East,Influenza,32,139,667127
+South East,Influenza,33,158,667127
+South East,Influenza,34,163,667127
+South East,Influenza,35,172,667127
+South East,Influenza,36,158,667127
+South East,Influenza,37,135,667127
+South East,Influenza,38,171,667127
+South East,Influenza,39,142,667127
+South East,RSV,40,57,667127
+South East,RSV,41,52,667127
+South East,RSV,42,275,667127
+South East,RSV,43,249,667127
+South East,RSV,44,258,667127
+South East,RSV,45,245,667127
+South East,RSV,46,285,667127
+South East,RSV,47,254,667127
+South East,RSV,50,245,667127
+South East,RSV,51,248,667127
+South East,RSV,52,247,667127
+South West,RSV,1,160,359090
+South West,RSV,2,127,359090
+South West,RSV,3,142,359090
+South West,RSV,4,156,359090
+South West,RSV,5,145,359090
+South West,RSV,6,158,359090
+South West,RSV,7,142,359090
+South West,RSV,8,131,359090
+South West,RSV,9,149,359090
+South West,RSV,10,125,359090
+South West,RSV,11,46,359090
+South West,RSV,12,33,359090
+South West,Whooping Cough,13,42,359090
+South West,Whooping Cough,14,65,359090
+South West,Whooping Cough,15,72,359090
+South West,Whooping Cough,16,52,359090
+South West,Whooping Cough,17,69,359090
+South West,Whooping Cough,18,38,359090
+South West,Whooping Cough,19,61,359090
+South West,Whooping Cough,20,36,359090
+South West,Influenza,21,89,359090
+South West,Influenza,22,71,359090
+South West,Influenza,23,102,359090
+South West,Influenza,24,85,359090
+South West,Influenza,25,88,359090
+South West,Influenza,26,74,359090
+South West,Influenza,27,72,359090
+South West,Influenza,28,85,359090
+South West,Influenza,29,89,359090
+South West,Influenza,30,96,359090
+South West,Influenza,31,78,359090
+South West,Influenza,32,87,359090
+South West,Influenza,33,90,359090
+South West,Influenza,34,77,359090
+South West,Influenza,35,100,359090
+South West,Influenza,36,85,359090
+South West,Influenza,37,81,359090
+South West,Influenza,38,72,359090
+South West,Influenza,39,75,359090
+South West,RSV,40,53,359090
+South West,RSV,41,16,359090
+South West,RSV,42,133,359090
+South West,RSV,43,148,359090
+South West,RSV,44,132,359090
+South West,RSV,45,137,359090
+South West,RSV,46,139,359090
+South West,RSV,47,130,359090
+South West,RSV,48,158,359090
+South West,RSV,49,128,359090
+South West,RSV,50,132,359090
+South West,RSV,51,149,359090
+South West,RSV,52,142,359090
+West Midlands,RSV,2,171,427699
+West Midlands,RSV,3,174,427699
+West Midlands,RSV,4,179,427699
+West Midlands,RSV,5,170,427699
+West Midlands,RSV,6,170,427699
+West Midlands,RSV,7,155,427699
+West Midlands,RSV,8,190,427699
+West Midlands,RSV,9,159,427699
+West Midlands,RSV,10,173,427699
+West Midlands,RSV,11,29,427699
+West Midlands,RSV,12,36,427699
+West Midlands,Whooping Cough,13,55,427699
+West Midlands,Whooping Cough,14,53,427699
+West Midlands,Whooping Cough,15,68,427699
+West Midlands,Whooping Cough,16,80,427699
+West Midlands,Whooping Cough,17,45,427699
+West Midlands,Whooping Cough,18,78,427699
+West Midlands,Whooping Cough,19,77,427699
+West Midlands,Whooping Cough,20,70,427699
+West Midlands,Influenza,21,109,427699
+West Midlands,Influenza,22,105,427699
+West Midlands,Influenza,23,94,427699
+West Midlands,Influenza,24,114,427699
+West Midlands,Influenza,25,102,427699
+West Midlands,Influenza,26,116,427699
+West Midlands,Influenza,27,99,427699
+West Midlands,Influenza,28,98,427699
+West Midlands,Influenza,29,89,427699
+West Midlands,Influenza,30,111,427699
+West Midlands,Influenza,31,92,427699
+West Midlands,Influenza,32,106,427699
+West Midlands,Influenza,33,111,427699
+West Midlands,Influenza,34,107,427699
+West Midlands,Influenza,35,114,427699
+West Midlands,Influenza,36,110,427699
+West Midlands,Influenza,37,116,427699
+West Midlands,Influenza,38,100,427699
+West Midlands,Influenza,39,85,427699
+West Midlands,RSV,40,27,427699
+West Midlands,RSV,41,53,427699
+West Midlands,RSV,42,181,427699
+West Midlands,RSV,43,167,427699
+West Midlands,RSV,44,188,427699
+West Midlands,RSV,45,162,427699
+West Midlands,RSV,46,179,427699
+West Midlands,RSV,47,151,427699
+West Midlands,RSV,48,177,427699
+West Midlands,RSV,49,152,427699
+West Midlands,RSV,50,182,427699
+West Midlands,RSV,51,178,427699
+West Midlands,RSV,52,169,427699
+Yorkshire,RSV,2,179,466739
+Yorkshire,RSV,3,199,466739
+Yorkshire,RSV,4,167,466739
+Yorkshire,RSV,5,196,466739
+Yorkshire,RSV,6,197,466739
+Yorkshire,RSV,7,192,466739
+Yorkshire,RSV,9,193,466739
+Yorkshire,RSV,10,202,466739
+Yorkshire,RSV,11,36,466739
+Yorkshire,RSV,12,31,466739
+Yorkshire,Whooping Cough,13,83,466739
+Yorkshire,Whooping Cough,14,62,466739
+Yorkshire,Whooping Cough,15,62,466739
+Yorkshire,Whooping Cough,16,76,466739
+Yorkshire,Whooping Cough,17,81,466739
+Yorkshire,Whooping Cough,18,85,466739
+Yorkshire,Whooping Cough,19,83,466739
+Yorkshire,Whooping Cough,20,74,466739
+Yorkshire,Influenza,21,118,466739
+Yorkshire,Influenza,22,119,466739
+Yorkshire,Influenza,23,104,466739
+Yorkshire,Influenza,24,114,466739
+Yorkshire,Influenza,25,117,466739
+Yorkshire,Influenza,26,123,466739
+Yorkshire,Influenza,27,107,466739
+Yorkshire,Influenza,29,104,466739
+Yorkshire,Influenza,30,96,466739
+Yorkshire,Influenza,31,104,466739
+Yorkshire,Influenza,32,100,466739
+Yorkshire,Influenza,33,118,466739
+Yorkshire,Influenza,34,88,466739
+Yorkshire,Influenza,35,104,466739
+Yorkshire,Influenza,36,120,466739
+Yorkshire,Influenza,37,115,466739
+Yorkshire,Influenza,38,89,466739
+Yorkshire,Influenza,39,118,466739
+Yorkshire,RSV,40,34,466739
+Yorkshire,RSV,41,42,466739
+Yorkshire,RSV,42,168,466739
+Yorkshire,RSV,43,202,466739
+Yorkshire,RSV,44,178,466739
+Yorkshire,RSV,45,177,466739
+Yorkshire,RSV,46,166,466739
+Yorkshire,RSV,47,195,466739
+Yorkshire,RSV,48,196,466739
+Yorkshire,RSV,49,202,466739
+Yorkshire,RSV,50,171,466739
+Yorkshire,RSV,51,181,466739
+Yorkshire,RSV,52,175,466739

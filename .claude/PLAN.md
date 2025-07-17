@@ -47,7 +47,8 @@
 **ALWAYS complete this step after successful data generation:**
 
 1. **Update README Index**: After creating each dataset, automatically scan the root directory and update the README.md file with a fresh index of all available datasets
-2. **Include Dataset Information**: For each dataset, include:
+2. **Cleanup Deleted Datasets**: Remove any datasets from the README index that no longer exist in the directory structure
+3. **Include Dataset Information**: For each dataset, include:
    - Dataset description and use case
    - Column names and data types
    - Industry/domain categorization
