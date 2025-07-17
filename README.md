@@ -36,10 +36,6 @@ Demobot uses [Claude Code](https://www.anthropic.com/claude-code) to generate pr
 The following synthetic datasets have been generated for demonstration purposes:
 
 ### Healthcare & Life Sciences
-- **`healthguard_analytics/`** - Health insurance member risk analysis
-  - `member_risk_data.csv` - Member demographics, risk categories, and predicted costs
-  - Columns: member_id, age_group, risk_category, annual_visits, predicted_cost
-
 - **`healthwatch_analytics/`** - Public health surveillance data
   - `surveillance_data.csv` - Disease surveillance across regions and time periods
   - Columns: region, disease_type, week_number, case_count, population_at_risk
@@ -61,7 +57,7 @@ The following synthetic datasets have been generated for demonstration purposes:
 ### Sports & Entertainment
 - **`Diamond Analytics Corp/`** - Baseball player performance analytics
   - `player_analytics.csv` - Player performance metrics and statistics
-  - Columns: player_id, position, batting_avg, home_runs, salary
+  - Columns: player_name, position, batting_avg, home_runs, ops
 
 ### Environmental & Climate
 - **`pacific_climate_observatory/`** - Weather monitoring data
